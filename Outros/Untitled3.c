@@ -3,7 +3,7 @@
 
 int main()
 {
-int var = 42;
+/*int var = 42;
 int * ponteiro;
 printf("Valor da vari�vel original: ");
 cout << var << endl;
@@ -20,5 +20,5 @@ cout << "Novo valor guardado pela vari�vel original: ";
 cout << var <<endl;
 
 system("PAUSE > null");
-return 0;
+return 0;*/
 }
