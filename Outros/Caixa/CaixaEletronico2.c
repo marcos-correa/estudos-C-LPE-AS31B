@@ -69,6 +69,10 @@ int main() {
          printf("\nO valor digitado não pode ser sacado\n");
          printf("Notas disponíveis: %d, %d, %d, %d e %d. \n\n", x50, x20, x10, x5, x2);
     }
+    
+    verifica = valorSaque%2;
+
+   
 
    
 
