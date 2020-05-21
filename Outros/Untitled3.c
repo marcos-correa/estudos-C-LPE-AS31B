@@ -5,18 +5,18 @@ int main()
 {
 int var = 42;
 int * ponteiro;
-printf("Valor da variável original: ");
+printf("Valor da variï¿½vel original: ");
 cout << var << endl;
 ponteiro = &var;
-cout << "Endereço apontado pelo ponteiro: ";
+cout << "Endereï¿½o apontado pelo ponteiro: ";
 cout << ponteiro <<endl;
-cout << "Valor guardado por este endereço: ";
+cout << "Valor guardado por este endereï¿½o: ";
 cout << *ponteiro <<endl;
 cout << "Valor atualizado do ponteiro!"<<endl;
 *ponteiro = 12458;
-cout << "Novo valor guardado por este endereço: ";
+cout << "Novo valor guardado por este endereï¿½o: ";
 cout << *ponteiro <<endl;
-cout << "Novo valor guardado pela variável original: ";
+cout << "Novo valor guardado pela variï¿½vel original: ";
 cout << var <<endl;
 
 system("PAUSE > null");
