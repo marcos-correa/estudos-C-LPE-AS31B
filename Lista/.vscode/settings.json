@@ -1,0 +1,5 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "c-cpp-compile-run.run-args": "-o",
+    "c-cpp-compile-run.c-flags": "-lm"
+}

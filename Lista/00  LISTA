@@ -1,0 +1,117 @@
+Lista de Exercícios: 1
+
+1. Escreva um programa para ler, calcular e escrever a média aritmética entre dois
+números.
+
+2. Faça um programa para ler dois valores (x e y), calcular e mostrar x elevado à
+potência de y.
+
+3. Faça um programa que leia dois números reais e em seguida mostre: a soma, o
+produto, a divisão e a subtração entre eles.
+
+4. Faça um programa no qual o usuário fornece os valores de temperatura em Fahrenheit
+e o mesmo converte os valores para Celsius Apresente o resultado. (pesquise a fórmula)
+
+5. Elaborar um programa que calcule e apresente o volume de uma caixa retangular, por
+meio da fórmula:
+VOLUME = COMPRIMENTO * LARGURA * ALTURA
+
+6. Elaborar um programa para efetuar o cálculo do valor de uma prestação em atraso,
+utilizando a fórmula:
+PRESTACAO = VALOR + (VALOR*(TAXA/100)*TEMPO)
+
+7. Faça um programa para ler um valor (o lado de um quadrado), calcular e mostrar a
+respectiva área do quadrado.
+
+8. Sabendo que a área de um triângulo é a medida da sua base multiplicada pela medida
+de sua altura dividida por dois. Escreva um programa que peça os valores da base e da
+altura e forneça a área do triângulo.
+
+9. Faça um programa para ler dois valores (altura e raio de um cilindro), calcular e
+mostrar o respectivo volume do cilindro. (pesquise a fórmula)
+
+10. Escrever um programa para ler 4 valores, calcular e mostrar a média ponderada
+obtida por um aluno para 2 notas bimestrais. Note que desses 4 valores lidos tem-se o
+seguinte: duas notas e os dois respectivos pesos das notas. (pesquise a fórmula).
+
+11. Escreva um programa que calcule o consumo de combustível de um automóvel em
+Km/L, e o informe na tela.
+Dados:
+KI = Quilometragem inicial
+KF = Quilometragem final
+CC = Consumo de combustível (nº de litros)
+DP = Distância percorrida DP = KF - KI
+GC = Gasto de combustível GC = DP / CC
+
+12. Uma fábrica produz dois tipos de peças de automóveis para venda no varejo.
+Escrever um programa que ajuda um cliente de loja de auto-peças a comprar estes tipos
+de peças. O programa deve ler:
+• a percentagem do IPI a ser acrescido no valor das peças
+• o código da peça 1, valor unitário da peça 1, quantidade de peças 1
+• o código da peça 2, valor unitário da peça 2, quantidade de peças 2
+O programa deve calcular o valor total a ser pago e apresentar o resultado.
+Fórmula: (valor1 ∗ quant1 + valor2 ∗ quant2) ∗ (IPI∕100 + 1)
+
+13. Identifique os dados de entrada, processamento e saída no programa abaixo
+• Receba código da peça
+• Receba valor da peça
+• Receba Quantidade de peças
+• Calcule o valor total em estoque (Quantidade * Valor da peça)
+• Mostre o código da peça e seu valor total em estoque.
+
+14. Escrever um programa que lê o número de um vendedor, o seu salário fixo, o total
+de vendas por ele efetuadas e o percentual que ganha sobre o total de vendas. Calcular o
+salário total do vendedor. Escrever número do vendedor e o salário total.
+
+15. Construa um programa que calcule a seguinte fórmula, e mostre no final o valor de
+RESULT:
+RESULT = (2 * A mod 3) – A
+
+16. Desenvolva um programa para ler valores para as variaveis y e z. Depois, calcule e
+mostre o valor de x, através
+expressão:
+x=RAIZQUADRADADE(y*(y²² + z³³)
+
+17. Sabe-se que,para iluminar de maneira correta os cômodos de uma casa, para cada
+m2 deve-se usar 18W de potência. Faça um programa que recebe as duas dimensões de
+um cômodo (em metros), calcule e mostre a sua área (em m2) e a potência de
+iluminação que deverá ser usada.
+
+18. Faça um programa que leia o número do funcionário, o número de horas trabalhadas
+mensais, o valor que recebe por hora e o número de filhos com idade menor de 14 anos.
+Calcular e escrever o salário deste funcionário, sendo que cada filho menor de 14 anos
+acrescenta 10% do salário.
+
+19. O valor ao consumidor de um carro novo é a soma do custo de fábrica com a
+percentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo
+que a percentagem do distribuidor seja de 28% e os impostos de 45%, escrever um
+programa em C que leia o custo de fábrica de um carro e escreva o custo ao consumidor.
+
+20. Escreva um programa que leia dois números que deverão ser colocados,
+respectivamente, nas variáveis VA e VB. O programa deve, então, trocar os valores de
+VA por VB e vice-versa e mostrar o conteúdo destas variáveis.
+
+21. Quais as operações necessárias para intercambiar os valores de 3 variáveis A, B e C
+de modo que A fique com o valor de B; B fique com o valor de C e C fique com o
+valor de A?
+
+22. Desenvolva uma aplicação em linguagem C que receba a idade de um indivíduo em
+anos, meses e dias e mostre-a expressa apenas em dias.
+
+23. Desenvolva uma aplicação em linguagem C que receba a idade de um indivíduo em
+dias e mostre-a expressa em anos, meses e dias.
+
+24. Dadas duas frações ordinárias a/b e c/d, determinar a sua soma e o seu produto.
+Pense e decida como seria a entrada de dados.
+
+25. Dado um numero inteiro que representa uma quantidade de segundos, determinar o
+seu valor equivalente em horas, minutos e segundos. Se a quantidade de segundos for
+insuficiente para dar um valor em horas, o valor em horas deve ser 0 (zero). A mesma
+observação vale em relação aos minutos e segundos. Por exemplo: 3.600 segundos = 1
+hora, 0 minutos, 0 segundos. ; 3.500 segundos = 0 horas, 58 minutos e 20 segundos.
+
+26. Dado um número inteiro não nulo de três dígitos, imprimir este número ao contrario,
+isto e, se a entrada for 123 (cento e vinte e três), imprimir 321 (trezentos e vinte e um).
+Usar operações sobre inteiros, por exemplo, divisões sucessivas por 10.
+
+27 NO PDF
